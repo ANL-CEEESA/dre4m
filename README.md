@@ -4,7 +4,7 @@
 
 
 
-<p class="aligncenter"> <img src="./docs/docs/img/dre4m.svg" width="40%" height="40%"
+<p class="aligncenter"> <img src="./docs/docs/img/Dream_logo_ANL_colors.svg" width="40%" height="40%"
 title="dre4am fr"> </p>
 
 This is the implementation of the framework for the planning of the
